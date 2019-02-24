@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="184px" height="184px" viewBox="0 0 184 184" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-4.0%" y="-2.8%" width="108.0%" height="108.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <polygon id="path-2" points="0.359583333 0.189729577 25 0.189729577 25 34 0.359583333 34"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-15.000000, -14.000000)">
+            <g id="Group-2" filter="url(#filter-1)" transform="translate(19.000000, 16.000000)">
+                <path d="M88,176 C39.398942,176 0,136.601058 0,88 C0,39.398942 39.398942,0 88,0 C136.601058,0 176,39.398942 176,88 C176,136.601058 136.601058,176 88,176 Z M42.2562177,80 C43.2196152,80 44,79.1827842 44,78.1755067 L44,70.8244933 C44,69.8167247 43.2196152,69 42.2562177,69 L32.7437823,69 C31.7803848,69 31,69.8167247 31,70.8244933 L31,78.1755067 C31,79.1827842 31.7803848,80 32.7437823,80 L42.2562177,80 Z M98.4044344,76.0604957 L60.5222599,114.485074 C59.8074838,115.210085 58.5855091,114.696596 58.5855091,113.671565 L58.5855091,28.1509722 C58.5855091,27.5154333 58.0778311,27 57.4512634,27 L48.1352044,27 C47.5081574,27 47,27.5154333 47,28.1509722 L47,133.047966 L47,141.932869 C47,142.883017 48.1337662,143.357118 48.7943709,142.684624 L99.2155687,91.2677225 C99.7956351,90.6759468 100.01328,89.8711901 99.9993775,89.0367717 L99.9993775,76.5467535 C99.9921865,76.0862674 99.5036843,75.7113626 99.051616,75.7531808 C98.8152749,75.7750624 98.5851659,75.8771765 98.4044344,76.0604957 Z M83,89.364844 L83,41.0600748 C83,40.4746387 82.513386,40 81.9125667,40 L72.0874333,40 C71.486614,40 71,40.4746387 71,41.0600748 L71,98.9384178 C71,99.8823731 72.1713494,100.355076 72.8565813,99.687389 L82.6812182,90.114299 C82.8857947,89.9154442 83,89.6459501 83,89.364844 Z M100.850147,122.670969 L87.6060294,109.732772 C86.8653431,109.008715 85.6633824,109.008715 84.9222059,109.732772 L76.9158333,117.554208 C76.1741667,118.278744 76.1741667,119.452462 76.9158333,120.176997 L100.128088,142.853082 C100.450147,143.167223 101.000147,142.944546 101.000147,142.500152 L101.000147,123.023899 C101.000147,122.89173 100.946225,122.764349 100.850147,122.670969 Z" id="Combined-Shape" fill="#C1272D"></path>
+                <g id="Group" transform="translate(31.000000, 27.000000)">
+                    <g id="Group-11" transform="translate(45.000000, 82.000000)">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <g id="Clip-10"></g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
