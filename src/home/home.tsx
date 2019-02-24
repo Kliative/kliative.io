@@ -2,6 +2,8 @@ import React, { PureComponent } from 'react';
 import LandingPage from './landing-page/landing-page';
 import Design from './design/design';
 import Repo from './repo/repo';
+import Resume from './resume/resume';
+import Footer from '../shared/components/footer/footer';
 
 class Home extends PureComponent {
     constructor(props: any) {
@@ -21,6 +23,8 @@ class Home extends PureComponent {
                 <LandingPage />
                 <Design />
                 <Repo />
+                <Resume />
+                <Footer />
             </div>
         );
     }

@@ -1,5 +1,5 @@
 import React, { PureComponent } from 'react';
-
+import MeGIF from '../../shared/images/gif/me_2.gif'
 class Design extends PureComponent {
     constructor(props: any) {
         super(props);
@@ -26,7 +26,7 @@ class Design extends PureComponent {
                         </ul>
                     </div>
                     <div className="image">
-                        <img src="images/gif/me_2.gif" alt="" />
+                        <img src={MeGIF} alt="" />
                     </div>
                 </section>
             </div>

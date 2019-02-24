@@ -1,5 +1,11 @@
 
 import React, { PureComponent } from 'react';
+
+//Images
+import logo from '../../shared/images/kliative_logo.png'
+import headerImage from '../../shared/images/banner_me_2.jpg'
+
+//Styles
 import './landing-page.scss';
 
 class LandingPage extends PureComponent {
@@ -8,7 +14,7 @@ class LandingPage extends PureComponent {
             <div className="divided">
                 <section className="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
                     <div className="content">
-                        <img src="images/kliative_logo.png" width="100" alt="" />
+                        <img src={logo} width="100" alt="" />
                         <h3>Kliative</h3>
 
                         <small>by Tawanda Kanyangarara.</small>
@@ -49,7 +55,7 @@ class LandingPage extends PureComponent {
                                                             </div>
 			</div>
                                                         <div className="image">
-                                                            <img src="images/banner_me_2.jpg" alt="" />
+                                                            <img src={headerImage} alt="" />
                                                         </div>
 		</section>
             </div>
