@@ -1,8 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.scss';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+
+
+import './shared/assets/css/extra.css';
+import './shared/assets/css/font-awesome.min.css';
+import './shared/assets/css/main.css';
+import './shared/assets/css/noscript.css';
+
 
 ReactDOM.render(<App />, document.getElementById('root'));
 

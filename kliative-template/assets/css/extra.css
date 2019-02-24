@@ -1,0 +1,104 @@
+
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 2;
+    top: 0;
+    right: 0;
+    background-color: #ffff;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #111;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidenav a:hover {
+    color: #47d3e5;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+.nav-icon {
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    z-index: 1;
+    right: 0;
+    color: #47d3e5;
+}
+.repo-image{
+    overflow: hidden;
+    background-color: #1F5E65;
+    flex-shrink: 0;
+width: 35%;
+min-width: 25rem;
+border-radius: 0;
+}
+
+.invert-blue {
+    background-color: #1F5E65;
+    color: #ffffff;
+}
+.invert-light-blue {
+    background-color: #3FBCCB;
+    color: #ffffff;
+}
+
+.invert-blue h2,
+.invert-light-blue h2,
+.invert-blue h3,
+.invert-light-blue h3,
+.invert-blue h4,
+.invert-light-blue h4,
+.invert-blue h5,
+.invert-light-blue h5,
+.invert-blue h6,
+.invert-light-blue h6,
+.invert-light-blue a,
+.invert-blue a {
+    color: #ffffff;
+}
+
+.invert-blue .icon.style2::before,
+.invert-light-blue .icon.style2::before {
+
+    box-shadow: inset 0 0 0 1px #ffff;
+
+}
+
+.download-cv-modal {
+    text-align: center;
+}
+.download-cv-modal i {
+    font-size: 6rem;
+}
+.mc-download {
+    background-color: #1F5E65;
+    color: #ffffff;
+}
+.mc-download a {
+    color: #ffffff;
+}
+.kliblue {
+    background-color: #1F5E65;
+}
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
