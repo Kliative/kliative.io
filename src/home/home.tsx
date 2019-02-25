@@ -5,6 +5,7 @@ import Repo from './repo/repo';
 import Resume from './resume/resume';
 import Footer from '../shared/components/footer/footer';
 
+
 class Home extends PureComponent {
     constructor(props: any) {
         super(props);
