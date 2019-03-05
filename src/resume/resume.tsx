@@ -32,7 +32,6 @@ class Resume extends PureComponent {
                 <Software />
                 <SkillsMatrix />
                 <Accolades />
-
                 <Footer />
             </div>
         );
