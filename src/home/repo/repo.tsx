@@ -31,7 +31,7 @@ class Repo extends PureComponent {
                             params={{
                                 "particles": {
                                     "number": {
-                                        "value": 100
+                                        "value": 50
                                     },
                                     "size": {
                                         "value": 3
@@ -46,7 +46,7 @@ class Repo extends PureComponent {
                                     },
                                     "modes": {
                                         "bubble": {
-                                            "size": 10,
+                                            "size": 5,
                                             "distance": 40
                                         }
                                     }
