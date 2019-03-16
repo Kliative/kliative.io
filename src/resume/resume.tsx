@@ -20,7 +20,7 @@ class Resume extends PureComponent {
     }
 
     componentDidMount() {
-        window.scrollTo(0, 0)
+        window.scrollTo(0, 0);
     }
 
     render() {
@@ -32,7 +32,7 @@ class Resume extends PureComponent {
                 <Education />
                 <Experience />
                 <Leadership />
-                <Software />
+                {/* <Software /> */}
                 <SkillsMatrix />
                 <Accolades />
                 <Footer />

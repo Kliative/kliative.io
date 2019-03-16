@@ -19,7 +19,7 @@ DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:156096
-FileModTime:1305072000
+FileModTime:1552664977
 NameArray:0,Mac,4,Merriweather Regular
 NameArray:0,Win,1,Merriweather
 %EndFont
@@ -42,7 +42,7 @@ DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:155192
-FileModTime:1305072000
+FileModTime:1552664977
 NameArray:0,Mac,4,Merriweather Light
 NameArray:0,Win,1,Merriweather Light
 NameArray:0,Win,16,Merriweather
@@ -66,7 +66,7 @@ DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:293516
-FileModTime:1343692800
+FileModTime:1552664977
 DesignSize:100
 NameArray:0,Mac,4,Source Sans Pro Regular
 NameArray:0,Win,1,Source Sans Pro
@@ -90,7 +90,7 @@ DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:292680
-FileModTime:1343692800
+FileModTime:1552664977
 DesignSize:100
 NameArray:0,Mac,4,Source Sans Pro Light
 NameArray:0,Win,1,Source Sans Pro Light
@@ -117,7 +117,7 @@ isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:218640
-FileModTime:1537746397
+FileModTime:1552664977
 DesignSize:110
 NameArray:0,Mac,4,Minion Pro
 NameArray:0,Win,1,Minion Pro
@@ -141,7 +141,7 @@ DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:103200
-FileModTime:1343692800
+FileModTime:1552664977
 DesignSize:100
 NameArray:0,Mac,4,Source Sans Pro Bold Italic
 NameArray:0,Win,1,Source Sans Pro
@@ -165,7 +165,7 @@ DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:103828
-FileModTime:1343692800
+FileModTime:1552664977
 DesignSize:100
 NameArray:0,Mac,4,Source Sans Pro Italic
 NameArray:0,Win,1,Source Sans Pro

@@ -1,10 +1,10 @@
 ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
 
-PUBLICATION NAME: Tawanda_Kanyangarara_CV_2018.indd
+PUBLICATION NAME: Tawanda_Kanyangarara_CV_2019.indd
 
-PACKAGE DATE: 2019/03/02 15:54
-Creation Date: 2019/03/02
-Modification Date: 2019/03/02
+PACKAGE DATE: 2019/03/16 00:45
+Creation Date: 2019/03/16
+Modification Date: 2019/03/16
 
 CONTACT INFORMATION
 
@@ -84,9 +84,9 @@ Flip Mode: Off
 
 FILE PACKAGE LIST
 
-1. Tawanda_Kanyangarara_CV_2018.indd; type: Adobe InDesign publication; size: 2136K
-2. Tawanda_Kanyangarara_CV_2018.idml; type: InDesign Markup Document; size: 187K
-3. Tawanda_Kanyangarara_CV_2018.pdf; type: Adobe Acrobat Document; size: 131K
+1. Tawanda_Kanyangarara_CV_2019.indd; type: Adobe InDesign publication; size: 2160K
+2. Tawanda_Kanyangarara_CV_2019.idml; type: InDesign Markup Document; size: 191K
+3. Tawanda_Kanyangarara_CV_2019.pdf; type: Adobe Acrobat Document; size: 134K
 4. Merriweather-Light.ttf; type: Font file; size: 151K
 5. Merriweather-Regular.ttf; type: Font file; size: 152K
 6. MinionPro-Regular.otf; type: Font file; size: 213K
