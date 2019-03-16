@@ -54,7 +54,7 @@ class Resume extends PureComponent {
                             <div className="row download-cv-modal">
                                 <div className="col-lg-12">
                                     <i className="icon style1 fa-file-pdf-o"></i>
-                                    <p><a href="https://firebasestorage.googleapis.com/v0/b/kliative.appspot.com/o/Tawanda_Kanyangarara_CV_2019.pdf?alt=media&token=777d1acb-a9b5-4b12-915c-ef4fb7ad2d1f" className="icon style2 fa-download"> - Download PDF</a></p>
+                                    <p><a href="https://firebasestorage.googleapis.com/v0/b/kliative.appspot.com/o/Tawanda_Kanyangarara_CV_2019.pdf?alt=media&token=aec9568a-c3f8-417a-b536-fe77b2c5b0d6" className="icon style2 fa-download"> - Download PDF</a></p>
                                 </div>
                             </div>
                         </div>
