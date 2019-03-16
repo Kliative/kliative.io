@@ -2,7 +2,7 @@ import React, { PureComponent } from 'react';
 import ironManMe from '../../shared/images/me_cv_1.jpg'
 import './resume.scss';
 import { Link } from 'react-router-dom';
-import { Modal, Button } from 'react-bootstrap';
+// import { Modal, Button } from 'react-bootstrap';
 class Resume extends PureComponent {
 
     state: any;
@@ -40,7 +40,7 @@ class Resume extends PureComponent {
                         <p>An account of my eductaion, qualifications and work experience.</p>
                         <ul className="actions stacked">
                             <li><Link to="/cv" className="icon style2 fa-desktop"></Link> - View Online</li>
-                            <li><a onClick={this.handleShow} className="icon style2 fa-download"></a> - Download Printable</li>
+                            <li><a href="https://firebasestorage.googleapis.com/v0/b/kliative.appspot.com/o/Tawanda_Kanyangarara_CV_2019.pdf?alt=media&token=777d1acb-a9b5-4b12-915c-ef4fb7ad2d1f" className="icon style2 fa-download"></a> - Download Printable</li>
                         </ul>
                     </div>
                     <div className="image">
@@ -48,7 +48,7 @@ class Resume extends PureComponent {
                     </div>
                 </section>
 
-                <Modal show={this.state.show} onHide={this.handleClose}>
+                {/* <Modal show={this.state.show} onHide={this.handleClose}>
                     <Modal.Body>
                         <div className="modal-content mc-download">
                             <div className="row download-cv-modal">
@@ -59,7 +59,7 @@ class Resume extends PureComponent {
                             </div>
                         </div>
                     </Modal.Body>
-                </Modal>
+                </Modal> */}
             </div>
         );
     }

@@ -22,23 +22,23 @@ class Leadership extends PureComponent {
                         <h2>Leadership Skills</h2>
                         <div className="items style3 medium onscroll-fade-in">
                             <section>
-                                <span className="icon style2 major fa-diamond"></span>
-                                <h3>Empathy</h3>
+                                <span className="icon style2 major fa-heartbeat"></span>
+                                <h3>Sickening Work Ethic</h3>
                             </section>
                             <section>
-                                <span className="icon style2 major fa-save"></span>
+                                <span className="icon style2 major fa-balance-scale"></span>
                                 <h3>Reasoning</h3>
                             </section>
                             <section>
-                                <span className="icon style2 major fa-bar-chart"></span>
+                                <span className="icon style2 major fa-handshake-o"></span>
                                 <h3>Repor</h3>
                             </section>
                             <section>
-                                <span className="icon style2 major fa-wifi"></span>
+                                <span className="icon style2 major fa-line-chart"></span>
                                 <h3>Patients</h3>
                             </section>
                             <section>
-                                <span className="icon style2 major fa-wifi"></span>
+                                <span className="icon style2 major fa-code"></span>
                                 <h3>Execution</h3>
                             </section>
                         </div>

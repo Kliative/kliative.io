@@ -29,19 +29,17 @@ class Education extends PureComponent {
                             <dd>
                                 <p>
                                     Ba(Hons) Digital Media Design
-						</p>
+						        </p>
 
                             </dd>
                             <dt>
                                 Open Window School of Visual Communication
-						<h6>2008 -2009</h6>
+						        <h6>2008 -2009</h6>
                             </dt>
                             <dd>
                                 <p>
                                     Diploma in Visual Communication
-        
-						</p>
-
+						        </p>
                             </dd>
                         </dl>
                     </div>

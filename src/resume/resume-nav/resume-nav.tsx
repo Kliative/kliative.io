@@ -18,7 +18,6 @@ class ResumeNav extends PureComponent {
         return (
             <div>
                 <div className="resume-nav">
-                
                 <Link to="/" className="icon fa-chevron-circle-left"> Back</Link> 
                 </div>
                 

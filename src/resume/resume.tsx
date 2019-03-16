@@ -20,7 +20,7 @@ class Resume extends PureComponent {
     }
 
     componentDidMount() {
-
+        window.scrollTo(0, 0)
     }
 
     render() {
