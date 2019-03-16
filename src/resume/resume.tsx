@@ -32,7 +32,7 @@ class Resume extends PureComponent {
                 <Education />
                 <Experience />
                 <Leadership />
-                <Software />
+                {/* <Software /> */}
                 <SkillsMatrix />
                 <Accolades />
                 <Footer />

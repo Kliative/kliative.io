@@ -21,22 +21,20 @@ class Software extends PureComponent {
                         <h2>Software</h2>
                         <div className="items style1 medium onscroll-fade-in">
                             <section>
-                                <span className="icon style2 major fa-diamond"></span>
-                                <h3>DDD</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam
-							congue semper. Etiam eget ultrices risus nec tempor elit.</p>
+                                <span className="icon style2 major fa-eye"></span>
+                                <h3>Front</h3>
+                               <p>Angular</p>
+                               <p>React</p>
                             </section>
                             <section>
-                                <span className="icon style2 major fa-save"></span>
-                                <h3>TDD</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam
-							congue semper. Etiam eget ultrices risus nec tempor elit.</p>
+                                <span className="icon style2 major fa-plug"></span>
+                                <h3>Middle</h3>
+                                <p>Services</p>
                             </section>
                             <section>
-                                <span className="icon style2 major fa-bar-chart"></span>
-                                <h3>Dolor</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam
-							congue semper. Etiam eget ultrices risus nec tempor elit.</p>
+                                <span className="icon style2 major fa-table"></span>
+                                <h3>Back</h3>
+                                <p>Postgress</p>
                             </section>
                         </div>
                     </div>

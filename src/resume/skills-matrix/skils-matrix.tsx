@@ -42,7 +42,7 @@ class SkillsMatrix extends PureComponent {
                                     </div>
                                 </div>
                                 <div className='form-group'>
-                                    <label>Javascript (Vanila)</label>
+                                    <label>Javascript (Vanilla)</label>
                                     <div className='progress'>
                                         <div className='progress-bar kliblue' role='progressbar' style={{ width: '100%' }} aria-valuenow={100} aria-valuemin={0}
                                             aria-valuemax={100}></div>
@@ -59,7 +59,7 @@ class SkillsMatrix extends PureComponent {
                                 <div className='form-group'>
                                     <label>ASP.NET Core</label>
                                     <div className='progress'>
-                                        <div className='progress-bar kliblue' role='progressbar' style={{ width: '70%' }} aria-valuenow={70} aria-valuemin={0}
+                                        <div className='progress-bar kliblue' role='progressbar' style={{ width: '60%' }} aria-valuenow={60} aria-valuemin={0}
                                             aria-valuemax={100}></div>
                                     </div>
                                 </div>
@@ -117,20 +117,7 @@ class SkillsMatrix extends PureComponent {
                             </div>
                             <div className='col-lg-6'>
                                 <div className='form-group'>
-                                    <label>CI/CD</label>
-                                    <small>(Continous Intergration & Continous Deployment)</small>
-                                    <div className='progress'>
-                                        <div className='progress-bar kliblue' role='progressbar' style={{ width: '100%' }} aria-valuenow={100} aria-valuemin={0}
-                                            aria-valuemax={100}></div>
-                                    </div>
-                                </div>
-                                <div className='form-group'>
-                                    <label></label>
-                                    <ul>
-                                        <li>Atlassian (Jira/Bamboo/Bitbucket)</li>
-                                        <li>Jenkins</li>
-                                        <li>Docker</li>
-                                    </ul>
+                                    <label>CI/CD <small>(Continous Intergration & Continous Deployment)</small></label>
                                 </div>
                                 <div className='form-group'>
                                     <label>Git (bitBucket / github / gitlab)</label>
@@ -139,20 +126,35 @@ class SkillsMatrix extends PureComponent {
                                             aria-valuemax={100}></div>
                                     </div>
                                 </div>
-
+                                <div className='form-group'>
+                                    <label>Docker</label>
+                                    <div className='progress'>
+                                        <div className='progress-bar kliblue' role='progressbar' style={{ width: '85%' }} aria-valuenow={85} aria-valuemin={0}
+                                            aria-valuemax={100}></div>
+                                    </div>
+                                </div>
                             </div>
                             <div className='col-lg-6'>
                                 <div className='form-group'>
                                     <label>Bamboo</label>
                                     <div className='progress'>
-                                        <div className='progress-bar kliblue' role='progressbar' style={{ width: '95%' }} aria-valuenow={95} aria-valuemin={0}
+                                        <div className='progress-bar kliblue' role='progressbar' style={{ width: '85%' }} aria-valuenow={85} aria-valuemin={0}
                                             aria-valuemax={100}></div>
                                     </div>
                                 </div>
                                 <div className='form-group'>
                                     <label>Jira</label>
                                     <div className='progress'>
-                                        <div className='progress-bar kliblue' role='progressbar' style={{ width: '85%' }} aria-valuenow={95} aria-valuemin={0}
+                                        <div className='progress-bar kliblue' role='progressbar' style={{ width: '90%' }} aria-valuenow={90} aria-valuemin={0}
+                                            aria-valuemax={100}></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className='col-lg-6'>
+                                <div className='form-group'>
+                                    <label>Jenkins</label>
+                                    <div className='progress'>
+                                        <div className='progress-bar kliblue' role='progressbar' style={{ width: '90%' }} aria-valuenow={90} aria-valuemin={0}
                                             aria-valuemax={100}></div>
                                     </div>
                                 </div>
@@ -175,7 +177,7 @@ class SkillsMatrix extends PureComponent {
                                 <div className='form-group'>
                                     <label>Arduino (C)</label>
                                     <div className='progress'>
-                                        <div className='progress-bar kliblue' role='progressbar' style={{ width: '90%' }} aria-valuenow={90} aria-valuemin={0}
+                                        <div className='progress-bar kliblue' role='progressbar' style={{ width: '65%' }} aria-valuenow={65} aria-valuemin={0}
                                             aria-valuemax={100}></div>
                                     </div>
                                 </div>
@@ -189,14 +191,14 @@ class SkillsMatrix extends PureComponent {
                                 <div className='form-group'>
                                     <label>Rasperry Pi (Linux: Raspbian)</label>
                                     <div className='progress'>
-                                        <div className='progress-bar kliblue' role='progressbar' style={{ width: '90%' }} aria-valuenow={90} aria-valuemin={0}
+                                        <div className='progress-bar kliblue' role='progressbar' style={{ width: '80%' }} aria-valuenow={80} aria-valuemin={0}
                                             aria-valuemax={100}></div>
                                     </div>
                                 </div>
                                 <div className='form-group'>
                                     <label>Python (Machine Learning)</label>
                                     <div className='progress'>
-                                        <div className='progress-bar kliblue' role='progressbar' style={{ width: '80%' }} aria-valuenow={80} aria-valuemin={0}
+                                        <div className='progress-bar kliblue' role='progressbar' style={{ width: '75%' }} aria-valuenow={75} aria-valuemin={0}
                                             aria-valuemax={100}></div>
                                     </div>
                                 </div>
@@ -206,12 +208,12 @@ class SkillsMatrix extends PureComponent {
                                 <div className='form-group'>
                                     <label>R (Machine Learning)</label>
                                     <div className='progress'>
-                                        <div className='progress-bar kliblue' role='progressbar' style={{ width: '70%' }} aria-valuenow={70} aria-valuemin={0}
+                                        <div className='progress-bar kliblue' role='progressbar' style={{ width: '60%' }} aria-valuenow={60} aria-valuemin={0}
                                             aria-valuemax={100}></div>
                                     </div>
                                 </div>
                                 <div className='form-group'>
-                                    <label>Swift</label>
+                                    <label>Swift (iOS)</label>
                                     <div className='progress'>
                                         <div className='progress-bar kliblue' role='progressbar' style={{ width: '90%' }} aria-valuenow={90} aria-valuemin={0}
                                             aria-valuemax={100}></div>

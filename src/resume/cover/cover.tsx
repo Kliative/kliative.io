@@ -35,7 +35,7 @@ class Cover extends PureComponent {
                         <header>
                             <p>Download printable verison</p>
                         </header>
-                        <p> <a href="https://firebasestorage.googleapis.com/v0/b/kliative.appspot.com/o/Tawanda_Kanyangarara_CV_2019.pdf?alt=media&token=aec9568a-c3f8-417a-b536-fe77b2c5b0d6" className="icon style2 fa-download"></a> - Download Printable</p>
+                        <p> <a href="https://firebasestorage.googleapis.com/v0/b/kliative.appspot.com/o/Tawanda_Kanyangarara_CV_2019.pdf?alt=media&token=065b16f4-f124-4dcf-ad27-07489c57fc1b" className="icon style2 fa-download"></a> - Download Printable</p>
                     </div>
                     <div className="image">
                         <img src={headerImage} alt="" />
