@@ -25,17 +25,17 @@ class Accolades extends PureComponent {
                                 Barclays Africa Group Limited / Absa Capital CIB
                                 <br />
                                 <u>
-                                    Trade Management Channel: Trade Loans
+                                    Trade Management Channel: Trade Loans presented at the World Economic Forun 2019 by Absa Group CEO Maria Ramos
                                 </u>
                             </dt>
                             <dd>
-                                Presented at the World Economic Forun 2019 by Absa Group CEO Maria Ramos
+                                Lead Developer
 					        </dd>
                             <dt>Barclays Africa Group Limited | Absa Hackathon <br />
                                 <u>2nd Place</u>
                             </dt>
                             <dd>
-                                iOS application allowing employess acccess and mananger their HR needs
+                                iOS application allowing employees acccess and mananger their HR needs
 					        </dd>
                             <br />
                             <dt>University of the Arts London: London College of Communication <br />
@@ -50,7 +50,7 @@ class Accolades extends PureComponent {
                             </dd>
                             <br />
                             <dt>
-                                Net#work BBDO
+                                Net#work BBDO <br/>
 						        <u>Won Neotel (Telecommunication) Pitch</u>
                             </dt>
                             <dd>

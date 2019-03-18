@@ -43,8 +43,8 @@ class LandingPage extends PureComponent {
 				</h4>
                                                 <br/><br/>
                                                     <p>
-                                                        Take a look at my <a href="#resume"> <u>CV (resume)</u> </a>, my <a href="#design">designs</a>, <br/> my <a href="#repo">github</a>
-                                                             for stuff I am currently working on.
+                                                        Take a look at my <a href="#resume"> <u>CV (resume)</u> </a>, my <a href="#design">designs</a>, my <a href="#repo">github</a><br/>
+                                                              for stuff I am currently working on.
 				</p>
 
                                                         <br/>
