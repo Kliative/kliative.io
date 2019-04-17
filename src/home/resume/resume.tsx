@@ -40,7 +40,7 @@ class Resume extends PureComponent {
                         <p>An account of my eductaion, qualifications and work experience.</p>
                         <ul className="actions stacked">
                             <li><Link to="/cv" className="icon style2 fa-desktop"></Link> - View Online</li>
-                            <li><a href="https://firebasestorage.googleapis.com/v0/b/kliative.appspot.com/o/Tawanda_Kanyangarara_CV_2019.pdf?alt=media&token=065b16f4-f124-4dcf-ad27-07489c57fc1b" className="icon style2 fa-download"></a> - Download Printable</li>
+                            <li><a href="https://firebasestorage.googleapis.com/v0/b/kliative.appspot.com/o/backflip_clip.mp4?alt=media&token=fa7039a0-b6a6-4e75-bd7d-9eafe0402581" className="icon style2 fa-download"></a> - Download Printable</li>
                         </ul>
                     </div>
                     <div className="image">
@@ -54,7 +54,7 @@ class Resume extends PureComponent {
                             <div className="row download-cv-modal">
                                 <div className="col-lg-12">
                                     <i className="icon style1 fa-file-pdf-o"></i>
-                                    <p><a href="https://firebasestorage.googleapis.com/v0/b/kliative.appspot.com/o/Tawanda_Kanyangarara_CV_2019.pdf?alt=media&token=065b16f4-f124-4dcf-ad27-07489c57fc1b" className="icon style2 fa-download"> - Download PDF</a></p>
+                                    <p><a href="https://firebasestorage.googleapis.com/v0/b/kliative.appspot.com/o/backflip_clip.mp4?alt=media&token=fa7039a0-b6a6-4e75-bd7d-9eafe0402581" className="icon style2 fa-download"> - Download PDF</a></p>
                                 </div>
                             </div>
                         </div>
