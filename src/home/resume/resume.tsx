@@ -40,7 +40,7 @@ class Resume extends PureComponent {
                         <p>An account of my eductaion, qualifications and work experience.</p>
                         <ul className="actions stacked">
                             <li><Link to="/cv" className="icon style2 fa-desktop"></Link> - View Online</li>
-                            <li><a href="https://firebasestorage.googleapis.com/v0/b/kliative.appspot.com/o/backflip_clip.mp4?alt=media&token=fa7039a0-b6a6-4e75-bd7d-9eafe0402581" className="icon style2 fa-download"></a> - Download Printable</li>
+                            <li><a href="https://firebasestorage.googleapis.com/v0/b/kliative.appspot.com/o/Tawanda_Kanyangarara_2019.pdf?alt=media&token=409199e0-296d-400d-ae1b-0b8e5833ee5a" className="icon style2 fa-download"></a> - Download Printable</li>
                         </ul>
                     </div>
                     <div className="image">

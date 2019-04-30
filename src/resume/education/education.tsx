@@ -24,11 +24,11 @@ class Education extends PureComponent {
                             <dt>
                                 University of the Arts London:
                                 London College of Communication
-						<h6>2011 - 2014</h6>
+						        <h6>2011 - 2014</h6>
                             </dt>
                             <dd>
                                 <p>
-                                    Ba(Hons) Digital Media Design
+                                <i className="fa fa-file-text-o" aria-hidden="true"></i> - Ba(Hons) Digital Media Design
 						        </p>
 
                             </dd>
@@ -38,7 +38,7 @@ class Education extends PureComponent {
                             </dt>
                             <dd>
                                 <p>
-                                    Diploma in Visual Communication
+                                <i className="fa fa-file-text-o" aria-hidden="true"></i> - Diploma in Visual Communication
 						        </p>
                             </dd>
                         </dl>

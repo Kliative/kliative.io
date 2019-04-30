@@ -1,0 +1,189 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Merriweather-Regular
+FamilyName:Merriweather
+StyleName:Regular
+MenuName:Merriweather
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Merriweather Regular
+WritingScript:Roman
+OutlineFileName:/Users/tawandakanyangarara/kliative.io/kliative-template/cv/CV/Tawanda_Kanyangarara_CV_2019_v1 Folder/Document fonts/Merriweather-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:156096
+FileModTime:577889916
+NameArray:0,Mac,4,Merriweather Regular
+NameArray:0,Win,1,Merriweather
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/tawandakanyangarara/kliative.io/kliative-template/cv/CV/Tawanda_Kanyangarara_CV_2019_v1 Folder/Document fonts/AdobeFnt19.lst
+FileLength:3610
+FileModTime:577889916
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Merriweather-Light
+FamilyName:Merriweather
+StyleName:Light
+MenuName:Merriweather Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Merriweather Light
+WritingScript:Roman
+OutlineFileName:/Users/tawandakanyangarara/kliative.io/kliative-template/cv/CV/Tawanda_Kanyangarara_CV_2019_v1 Folder/Document fonts/Merriweather-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:155192
+FileModTime:577889916
+NameArray:0,Mac,4,Merriweather Light
+NameArray:0,Win,1,Merriweather Light
+NameArray:0,Win,16,Merriweather
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/tawandakanyangarara/kliative.io/kliative-template/cv/CV/Tawanda_Kanyangarara_CV_2019_v1 Folder/Document fonts/AdobeFnt21.lst
+FileLength:4913
+FileModTime:577896352
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSansPro-Regular
+FamilyName:Source Sans Pro
+StyleName:Regular
+MenuName:Source Sans Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Source Sans Pro Regular
+WritingScript:Roman
+OutlineFileName:/Users/tawandakanyangarara/kliative.io/kliative-template/cv/CV/Tawanda_Kanyangarara_CV_2019_v1 Folder/Document fonts/SourceSansPro-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:293516
+FileModTime:577889916
+DesignSize:100
+NameArray:0,Mac,4,Source Sans Pro Regular
+NameArray:0,Win,1,Source Sans Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSansPro-Light
+FamilyName:Source Sans Pro
+StyleName:Light
+MenuName:Source Sans Pro Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Source Sans Pro Light
+WritingScript:Roman
+OutlineFileName:/Users/tawandakanyangarara/kliative.io/kliative-template/cv/CV/Tawanda_Kanyangarara_CV_2019_v1 Folder/Document fonts/SourceSansPro-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:292680
+FileModTime:577889916
+DesignSize:100
+NameArray:0,Mac,4,Source Sans Pro Light
+NameArray:0,Win,1,Source Sans Pro Light
+NameArray:0,Win,16,Source Sans Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/tawandakanyangarara/kliative.io/kliative-template/cv/CV/Tawanda_Kanyangarara_CV_2019_v1 Folder/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:577889916
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSansPro-BoldItalic
+FamilyName:Source Sans Pro
+StyleName:Bold Italic
+MenuName:Source Sans Pro
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Source Sans Pro Bold Italic
+WritingScript:Roman
+OutlineFileName:/Users/tawandakanyangarara/kliative.io/kliative-template/cv/CV/Tawanda_Kanyangarara_CV_2019_v1 Folder/Document fonts/SourceSansPro-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:103200
+FileModTime:577889916
+DesignSize:100
+NameArray:0,Mac,4,Source Sans Pro Bold Italic
+NameArray:0,Win,1,Source Sans Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSansPro-Italic
+FamilyName:Source Sans Pro
+StyleName:Italic
+MenuName:Source Sans Pro
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Source Sans Pro Italic
+WritingScript:Roman
+OutlineFileName:/Users/tawandakanyangarara/kliative.io/kliative-template/cv/CV/Tawanda_Kanyangarara_CV_2019_v1 Folder/Document fonts/SourceSansPro-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:103828
+FileModTime:577889916
+DesignSize:100
+NameArray:0,Mac,4,Source Sans Pro Italic
+NameArray:0,Win,1,Source Sans Pro
+%EndFont
+

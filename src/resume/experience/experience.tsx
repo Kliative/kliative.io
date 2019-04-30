@@ -26,8 +26,6 @@ class Experience extends PureComponent {
                         <h4>Barclays Africa Group Limited /
                             Absa Capital CIB
 					(Corporate Investment Banking) <br />
-                            <br />
-                            Corporate Technology <br />
                             <u>2016 - present</u>
                         </h4>
                         <dl>
@@ -38,6 +36,9 @@ class Experience extends PureComponent {
                                 <span>
                                     <label>Duties</label>
                                     <ul>
+                                        <li>
+                                            Stabilize application
+                                        </li>
                                         <li>
                                             Upgrade legacy applicatioin
                                         </li>
@@ -117,31 +118,9 @@ class Experience extends PureComponent {
                                     <label>Deliverables</label>
                                     <ul>
                                         <li>Streamlined UX processes</li>
-                                        <OverlayTrigger
-                                            key='top'
-                                            placement="top"
-                                            overlay={
-                                                <Tooltip id={`tooltip-top`}>
-
-                                                    <ul>
-                                                        <li>
-                                                            Kenya
-                                                        </li>
-                                                        <li>
-                                                            Mauritius
-                                                        </li>
-                                                        <li>
-                                                            Botswana
-                                                        </li>
-                                                    </ul>
-                                                </Tooltip>
-                                            }>
-                                            <li>
-                                                Completed product deployed accross Africa <i className="fa fa-info-circle"></i>
-                                            </li>
-                                        </OverlayTrigger>
-
-
+                                        <li>
+                                            Completed product deployed accross Africa
+                                        </li>
                                     </ul>
                                 </span>
                                 <span>
@@ -159,8 +138,8 @@ class Experience extends PureComponent {
                                 <span>
                                     Trade Management Channel: Inspired by the Trade Loan: Smart Form
                                 </span>
-                                <br/>
-                                <br/>
+                                <br />
+                                <br />
                                 <span>
                                     <label htmlFor=""> <i className="fa fa-star"></i> Achievement</label>
                                     Promoted from Graduate program to join Corporate Technology
@@ -175,8 +154,8 @@ class Experience extends PureComponent {
                                 <span>
                                     Trade Loan: Smart Forms
                                 </span>
-                                <br/>
-                                <br/>
+                                <br />
+                                <br />
                                 <span>
                                     <label htmlFor=""> <i className="fa fa-star"></i> Achievement</label>
                                     The project was a digitization of an International Trade Loan application form. Inspired Trade Management Channel

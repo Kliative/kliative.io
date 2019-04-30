@@ -23,7 +23,7 @@ class Leadership extends PureComponent {
                         <div className="items style3 medium onscroll-fade-in">
                             <section>
                                 <span className="icon style2 major fa-heartbeat"></span>
-                                <h3>Sickening Work Ethic</h3>
+                                <h3>Relentless Work Ethic</h3>
                             </section>
                             <section>
                                 <span className="icon style2 major fa-balance-scale"></span>
@@ -31,7 +31,7 @@ class Leadership extends PureComponent {
                             </section>
                             <section>
                                 <span className="icon style2 major fa-handshake-o"></span>
-                                <h3>Repor</h3>
+                                <h3>Rapport builder</h3>
                             </section>
                             <section>
                                 <span className="icon style2 major fa-line-chart"></span>
