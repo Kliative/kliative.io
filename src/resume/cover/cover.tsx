@@ -27,15 +27,15 @@ class Cover extends PureComponent {
                         <p>
                             Contact:
 					<br />
-                            <a href="mailto:klish3@gmail.com">klish3@gmail.com</a>
+                            <a href="mailto:tawi@kliative.io">tawi@kliative.io</a>
                             <br />
-                            <a href="tel:+27 72 252 7391">+27 72 252 7391</a>
+                            <a href="tel:+44 7517 199332">+44 7517 199332</a>
                         </p>
 
                         <header>
                             <p>Download printable verison</p>
                         </header>
-                        <p> <a href="https://firebasestorage.googleapis.com/v0/b/kliative.appspot.com/o/Tawanda_Kanyangarara_CV_2019.pdf?alt=media&token=065b16f4-f124-4dcf-ad27-07489c57fc1b" className="icon style2 fa-download"></a> - Download Printable</p>
+                        <p> <a href="https://firebasestorage.googleapis.com/v0/b/kliative.appspot.com/o/Tawanda_Kanyangarara_2019.pdf?alt=media&token=409199e0-296d-400d-ae1b-0b8e5833ee5a" className="icon style2 fa-download"></a> - Download Printable</p>
                     </div>
                     <div className="image">
                         <img src={headerImage} alt="" />

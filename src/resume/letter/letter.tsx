@@ -22,15 +22,14 @@ class Letter extends PureComponent {
                             <h3>Cover Letter</h3>
                         </header>
                         <p>
-                            My focus is creating human centered designs that allow people to harness the full power of technology to help solve their problems and actualise their aspirations.
+                            I am an experienced Lead Developer with a proven track record of complete customer satisfaction across multiple domains.
                         </p>
-
                         <p>
-                        I began my career in the Design sector and switched over into the development world, my ability to learn and apply greatly strengthened my personal resolve and technical execution skills.
+                            As a graduate I produced Trade Loan smart form prototype that inspired the head of Trade to include a customer facing channel into their workflow solution (Pangea). This later lead to me being assigned the Lead role for the development of the Trade Loan channel and workflow. The platform was rolled out in September and was the first product to run live. Trade Loans channel was taken to the World Economic Forum 2019 by ABSA Group CEO Maria Ramos.
 				        </p>
 
                         <p>
-                        I am an experienced Lead Developer with a proven track record of complete customer satisfaction. My ability to adjust the pace of work to meet evolving client needs allows me to adapt to and excel in any environment. Experienced in both working independently and as part of a team.
+                            Subsequently I was tasked with upgrading the other Trade software projects onto a the same tech stack as Pangea. This brought me to take an interim Lead role in the General Exposure Management team to implement security features and make deployments to production. I then took up the Lead in the Open Accounts team.
                         </p>
                     </div>
                 </section>

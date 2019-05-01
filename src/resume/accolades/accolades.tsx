@@ -22,15 +22,18 @@ class Accolades extends PureComponent {
                         <h2>Achievement/Accolades</h2>
                         <dl>
                             <dt>
-                                Barclays Africa Group Limited / Absa Capital CIB
+                                Barclays Africa Group Limited / Absa Capital CIB 
                                 <br />
+                                Trade Management Channel: Trade Loans 
+                                <br/>
                                 <u>
-                                    Trade Management Channel: Trade Loans presented at the World Economic Forun 2019 by Absa Group CEO Maria Ramos
+                                    Presented at the World Economic Forum 2019 by Absa Group CEO Maria Ramos
                                 </u>
                             </dt>
                             <dd>
                                 Lead Developer
 					        </dd>
+                            <br/>
                             <dt>Barclays Africa Group Limited | Absa Hackathon <br />
                                 <u>2nd Place</u>
                             </dt>
