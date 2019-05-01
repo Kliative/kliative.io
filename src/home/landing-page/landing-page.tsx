@@ -20,7 +20,21 @@ class LandingPage extends PureComponent {
                         <small>by Tawanda Kanyangarara.</small>
                         <br/>
                             <br/>
-                                <div className="inner">
+                               
+                                
+                                    <h4>
+				
+                                           I building exceptional technology that does not abstain from aesthetical appeal.
+
+                            
+				</h4>
+               
+                                                
+                                                    <p>
+                                                        Take a look at my <a href="#resume"> <u>CV (resume)</u> </a>, my <a href="#design">designs</a>, my <a href="#repo">github</a><br/>
+                                                              for projects I am currently working on.
+				</p>
+                <div className="inner">
                                     <ul className="icons">
                                         <li><a href="https://github.com/Kliative" className="icon style1 fa-github"><span className="label">GitHub</span></a></li>
                                         <li><a href="https://www.behance.net/klish3" className="icon style1 fa-behance"><span className="label">Behance</span></a></li>
@@ -30,23 +44,6 @@ class LandingPage extends PureComponent {
                                         <li><a href="mailto:kliation@gmail.com" className="icon style1 fa-envelope"><span className="label">Email</span></a></li>
                                     </ul>
                                 </div>
-                                <br/>
-                                    <h4>
-                                        I like creating stuff, all kinds of stuff.
-					<br/> <br/>
-                                            My enthuasim with technology has lead me into the world of coding, thoroughly enjoying Angular, Java and Python
-                                            amongst many other languages thus what I make must be interactive.
-					<br/> <br/>
-                                                My Fine Arts background coupled with Visual Communication and
-                                                Digital Media Design qualifications means what I make must look good.
-                            
-				</h4>
-                                                <br/><br/>
-                                                    <p>
-                                                        Take a look at my <a href="#resume"> <u>CV (resume)</u> </a>, my <a href="#design">designs</a>, my <a href="#repo">github</a><br/>
-                                                              for stuff I am currently working on.
-				</p>
-
                                                         <br/>
                                                             <div className="inner">
                                                                 <ul className="actions stacked">
