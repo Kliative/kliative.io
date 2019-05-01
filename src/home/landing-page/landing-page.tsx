@@ -41,7 +41,7 @@ class LandingPage extends PureComponent {
                                         <li><a href="https://www.instagram.com/klish3/" className="icon style1 fa-instagram"><span className="label">Instagram</span></a></li>
                                         <li><a href="https://za.linkedin.com/in/tawandakli" className="icon style1 fa-linkedin"><span className="label">LinkedIn</span></a></li>
                                         <li><a href="https://medium.com/@Klish3" className="icon style1 fa-medium"><span className="label">Medium</span></a></li>
-                                        <li><a href="mailto:kliation@gmail.com" className="icon style1 fa-envelope"><span className="label">Email</span></a></li>
+                                        <li><a href="mailto:tawi@kliative.io" className="icon style1 fa-envelope"><span className="label">Email</span></a></li>
                                     </ul>
                                 </div>
                                                         <br/>
