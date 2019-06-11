@@ -11,34 +11,25 @@ import Accolades from './accolades/accolades';
 import Footer from '../shared/components/footer/footer';
 import ResumeNav from './resume-nav/resume-nav';
 
-class Resume extends PureComponent {
-    constructor(props: any) {
-        super(props);
-        this.state = {
+const Resume = (props: any) => {
+    // window.scrollTo(0, 0);
+    return (
 
-        };
-    }
+        <div className="divided">
+            <ResumeNav 
+            resumeToggleViewState={props.toggleViewState} />
+            <Cover />
+            <Letter />
+            <Education />
+            <Experience />
+            <Leadership />
+            {/* <Software /> */}
+            <SkillsMatrix />
+            <Accolades />
+            <Footer />
+        </div>
 
-    componentDidMount() {
-        window.scrollTo(0, 0);
-    }
-
-    render() {
-        return (
-            <div className="divided">
-                <ResumeNav />
-                <Cover />
-                <Letter />
-                <Education />
-                <Experience />
-                <Leadership />
-                {/* <Software /> */}
-                <SkillsMatrix />
-                <Accolades />
-                <Footer />
-            </div>
-        );
-    }
-}
+    )
+};
 
 export default Resume;
