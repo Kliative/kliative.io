@@ -1,20 +1,8 @@
-import React, { PureComponent } from 'react';
+import React from 'react';
 import './leadership.scss';
 import leadershipImg from '../../shared/images/leadership.jpg';
 
-class Leadership extends PureComponent {
-    constructor(props: any) {
-        super(props);
-        this.state = {
-
-        };
-    }
-
-    componentDidMount() {
-
-    }
-
-    render() {
+const Leadership = (pros:any) => {
         return (
             <div>
                 <section className="spotlight style2 orient-right content-align-center image-position-center onscroll-image-fade-in invert-blue">
@@ -48,8 +36,7 @@ class Leadership extends PureComponent {
                     </div>
                 </section>
             </div>
-        );
-    }
-}
+        )
+    };
 
 export default Leadership;

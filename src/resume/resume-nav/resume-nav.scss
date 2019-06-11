@@ -9,4 +9,8 @@
     padding: 0 0 0 20px;
     border-radius: 0px 6px 6px 0px;
     box-shadow: 9px 3px 60px -13px rgba(31,95,101,0.58);
+    cursor: pointer;
+    &:hover {
+       color: #47D3E5 !important;
+    }
 }
