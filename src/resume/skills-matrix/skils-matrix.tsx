@@ -11,6 +11,8 @@ const SkillsMatrix = (pros: any) => {
                     <div className='row align-left'>
                         <div className='col-lg-12'>
                             <h2>Competence Matrix</h2>
+                            <p><a href="https://www.codewars.com/users/Kliative/"><img className="" src="https://www.codewars.com/users/Kliative/badges/micro" alt=""/></a></p>
+                            
                         </div>
                         <div className='col-lg-6'>
 

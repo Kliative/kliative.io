@@ -1,9 +1,9 @@
-import React, { Component } from 'react';
+import React, { Component, useState } from 'react';
 import './shared/assets/sass/main.scss';
+import './App.scss';
 import Home from './home/home';
 import Resume from './resume/resume';
-
-import { Route, Switch } from 'react-router-dom';
+import { Animated } from "react-animated-css";
 class App extends Component {
   constructor(props: any) {
     super(props);
@@ -23,14 +23,13 @@ class App extends Component {
       <div className="App">
         {
           this.state.toggleView ?
-            <div>
-              < Home toggleViewState={this.toggleViewState} />
-            </div>
+              <Home toggleViewState={this.toggleViewState} />
             :
             <div>
-              <Resume toggleViewState={this.toggleViewState} />
+                <Resume toggleViewState={this.toggleViewState} />
             </div>
         }
+
       </div>
     );
   }
