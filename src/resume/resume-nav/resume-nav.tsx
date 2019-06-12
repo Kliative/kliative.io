@@ -5,8 +5,8 @@ const ResumeNav = (props: any) => {
 
     return (
         <div>
-            <div className="resume-nav">
-                <a onClick={props.resumeToggleViewState} className="icon fa-chevron-circle-left"> Home</a>
+            <div onClick={props.resumeToggleViewState} className="resume-nav">
+                <a className="icon fa-chevron-circle-left"> Home</a>
             </div>
 
         </div>

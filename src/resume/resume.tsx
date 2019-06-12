@@ -10,14 +10,15 @@ import SkillsMatrix from './skills-matrix/skils-matrix';
 import Accolades from './accolades/accolades';
 import Footer from '../shared/components/footer/footer';
 import ResumeNav from './resume-nav/resume-nav';
+import Lazyload from 'react-lazyload';
 
 const Resume = (props: any) => {
     // window.scrollTo(0, 0);
     return (
 
         <div className="divided">
-            <ResumeNav 
-            resumeToggleViewState={props.toggleViewState} />
+            <ResumeNav
+                resumeToggleViewState={props.toggleViewState} />
             <Cover />
             <Letter />
             <Education />

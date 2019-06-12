@@ -19,7 +19,7 @@ const Cover = (pros: any) => {
                         <br />
                         <a href="tel:+44 7517 199332">+44 7517 199332</a>
                     </p>
-
+                    <img src="https://www.codewars.com/users/Kliative/badges/small" alt=""/>
                     <header>
                         <p>Download printable verison</p>
                     </header>
