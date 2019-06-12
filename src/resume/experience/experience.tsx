@@ -5,7 +5,7 @@ const Experience = (pros: any) => {
 
     return (
         <div>
-            <section className="wrapper style1">
+            <section className="wrapper spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
                 <div className="inner">
                     <header>
                         <h2>Experience</h2>
