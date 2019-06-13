@@ -19,7 +19,7 @@ const LandingPage = (pros:any) => {
                         <br/>
                         <br/>   
                         <h4>
-                            I building exceptional technology that does not abstain from aesthetical appeal.
+                            I build exceptional technology that does not abstain from aesthetic appeal.
                         </h4>                  
                         <p>
                             Take a look at my <a href="#resume"> <u>CV (resume)</u> </a>, my <a href="#design">designs</a>, my <a href="#repo">github</a><br/>
