@@ -3,7 +3,7 @@ import './shared/assets/sass/main.scss';
 import './App.scss';
 import Home from './home/home';
 import Resume from './resume/resume';
-import { Animated } from "react-animated-css";
+import Indicator from './shared/components/indicator/indicator';
 class App extends Component {
   constructor(props: any) {
     super(props);
@@ -11,22 +11,38 @@ class App extends Component {
   }
 
   state = {
-    toggleView: true
+    toggleView: true,
+    indicator: true
   }
 
+
+
+  indicatorRemove() {
+    setTimeout(() => {
+      this.setState({ indicator: false });
+    }, 1500)
+  }
+
+  componentDidMount() {
+    this.indicatorRemove();
+  }
+
+
   toggleViewState = () => {
-    this.setState({ toggleView: !this.state.toggleView });
+    this.setState({ toggleView: !this.state.toggleView, indicator: true });
+    this.indicatorRemove();
   }
   render() {
     window.scrollTo(0, 0);
     return (
       <div className="App">
+        {this.state.indicator && <Indicator />}
         {
           this.state.toggleView ?
-              <Home toggleViewState={this.toggleViewState} />
+            <Home toggleViewState={this.toggleViewState} />
             :
             <div>
-                <Resume toggleViewState={this.toggleViewState} />
+              <Resume toggleViewState={this.toggleViewState} />
             </div>
         }
 
