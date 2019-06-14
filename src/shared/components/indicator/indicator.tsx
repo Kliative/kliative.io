@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../../images/kliative_logo.png';
+import logo from '../../images/Klogo.svg';
 import './indicator.scss';
 
 const Indicator = () => {
